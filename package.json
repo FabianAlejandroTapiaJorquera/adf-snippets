@@ -2,7 +2,7 @@
     "name": "GCADF",
     "displayName": "Generador códigos ADF",
     "description": "Crear componentes de ADF",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "icon": "images/adf.ico",
     "publisher": "FabianAlejandroTapiaJorquera",
     "engines": {
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/FabianAlejandroTapiaJorquera/adf-snippets"
     },
     "categories": [
         "Snippets",

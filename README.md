@@ -1,18 +1,26 @@
-# GCADF README
+# Generador de componentes para Azure Data Factory
 
-## Features
+Esta extensión ayuda a generar códigos que generan componentes en Azure Data Factory
 
-Genera el componente para  llamar a las notificaciones de slack en Azure Data Factory.
+##  Comandos disponibles
 
-## Requirements
+createPipelineNotificaciones
 
-Debe estar creada la pipeline NotificacionesSlack dentro de data factory.
+## Funcionamiento
 
-## Known Issues
+En un archivo JSON escribir los comandos disponibles
 
-Ninguno.
+## Ejemplo de uso
+
+Escribir un comando disponible y completar los parámetros si estos existen  
+![Getting Started](./images/Captura%20createPipelineNotificaciones.png)
 
 ### 1.0.0
 
-Versión inicial de GCADF
+Versión inicial.
+Contiene el comando createPipelineNotificaciones
+ 
+### 1.0.1
 
+-Cambios a la documentación
+-Se añade repositorio de GitHub
