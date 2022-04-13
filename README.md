@@ -13,7 +13,6 @@ En un archivo JSON escribir los comandos disponibles
 ## Ejemplo de uso
 
 Escribir un comando disponible y completar los parámetros si estos existen  
-![Getting Started](./images/Captura%20createPipelineNotificaciones.png)
 
 ### 1.0.0
 
