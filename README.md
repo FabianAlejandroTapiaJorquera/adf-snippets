@@ -4,7 +4,8 @@ Esta extensión ayuda a generar códigos que generan componentes en Azure Data F
 
 ##  Comandos disponibles
 
-createPipelineNotificaciones
+pipelineSlack
+notebookSlack
 
 ## Funcionamiento
 
@@ -23,3 +24,7 @@ Contiene el comando createPipelineNotificaciones
 
 -Cambios a la documentación
 -Se añade repositorio de GitHub
+
+### 2.0.0
+
+-Se añade comando notebookSlack
